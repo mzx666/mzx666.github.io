@@ -6,7 +6,7 @@
   <link href="https://o2pig.xyz/atom.xml" rel="self"/>
   
   <link href="https://o2pig.xyz/"/>
-  <updated>2021-05-22T10:08:37.980Z</updated>
+  <updated>2021-06-22T07:26:25.458Z</updated>
   <id>https://o2pig.xyz/</id>
   
   <author>
@@ -17,149 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://o2pig.xyz/%E4%BA%86%E4%B8%8D%E8%B5%B7/"/>
-    <id>https://o2pig.xyz/%E4%BA%86%E4%B8%8D%E8%B5%B7/</id>
-    <published>2021-05-23T04:18:05.279Z</published>
-    <updated>2021-05-22T10:08:37.980Z</updated>
+    <title>我有博客啦~</title>
+    <link href="https://o2pig.xyz/1/"/>
+    <id>https://o2pig.xyz/1/</id>
+    <published>2021-06-26T16:00:00.000Z</published>
+    <updated>2021-06-22T07:26:25.458Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://o2pig.xyz/hello-world/"/>
-    <id>https://o2pig.xyz/hello-world/</id>
-    <published>2021-05-23T03:27:06.345Z</published>
-    <updated>2021-05-23T03:27:06.345Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>我的博客用 <code>Hexo</code> 框架渲染……</p><p>我会“不定期”的更新呦~</p><p>现在在<code>实验阶段</code>，可能会出现问题，如果访问不了 $90$%的概率还能回来~</p><p>以后要是有时间，我就会定期更新！</p><p>本站是 博客 站以后可能会有 周记 站~</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>引导站</title>
-    <link href="https://o2pig.xyz/%E5%BC%95%E5%AF%BC%E7%AB%99/"/>
-    <id>https://o2pig.xyz/%E5%BC%95%E5%AF%BC%E7%AB%99/</id>
-    <published>2021-04-17T04:52:13.000Z</published>
-    <updated>2021-04-17T04:53:00.598Z</updated>
-    
-    <content type="html"><![CDATA[<p>引导站：</p><p><a href="https://www.o2pig.xyz/">https://www.o2pig.xyz/</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;引导站：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.o2pig.xyz/&quot;&gt;https://www.o2pig.xyz/&lt;/a&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="动态" scheme="https://o2pig.xyz/tags/%E5%8A%A8%E6%80%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>正在迁移博客~</title>
-    <link href="https://o2pig.xyz/%E6%AD%A3%E5%9C%A8%E8%BF%81%E7%A7%BB%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://o2pig.xyz/%E6%AD%A3%E5%9C%A8%E8%BF%81%E7%A7%BB%E5%8D%9A%E5%AE%A2/</id>
-    <published>2021-04-17T04:46:39.000Z</published>
-    <updated>2021-04-17T04:47:22.261Z</updated>
-    
-    <content type="html"><![CDATA[<p>正在迁移博客~</p><p>要把图床选好~</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;正在迁移博客~&lt;/p&gt;
-&lt;p&gt;要把图床选好~&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="动态" scheme="https://o2pig.xyz/tags/%E5%8A%A8%E6%80%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>有周记站啦！</title>
-    <link href="https://o2pig.xyz/%E6%9C%89%E5%91%A8%E8%AE%B0%E7%AB%99%E5%95%A6%EF%BC%81/"/>
-    <id>https://o2pig.xyz/%E6%9C%89%E5%91%A8%E8%AE%B0%E7%AB%99%E5%95%A6%EF%BC%81/</id>
-    <published>2021-04-17T04:43:13.000Z</published>
-    <updated>2021-04-17T04:50:29.762Z</updated>
-    
-    <content type="html"><![CDATA[<p>又费了一点时间，整完了</p><p>网址：<a href="https://diary.o2pig.xyz/">https://diary.o2pig.xyz</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;又费了一点时间，整完了&lt;/p&gt;
-&lt;p&gt;网址：&lt;a href=&quot;https://diary.o2pig.xyz/&quot;&gt;https://diary.o2pig.xyz&lt;/a&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="动态" scheme="https://o2pig.xyz/tags/%E5%8A%A8%E6%80%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【动态】准备开始定期更新了~</title>
-    <link href="https://o2pig.xyz/3/"/>
-    <id>https://o2pig.xyz/3/</id>
-    <published>2021-04-04T02:14:09.000Z</published>
-    <updated>2021-04-17T13:34:43.354Z</updated>
-    
-    <content type="html"><![CDATA[<p>由于<strong>各种原因</strong>，没有时间更新……</p><p>我想了下，其实写博客也算是一种记录生活吗！（记录事件，有助于写作文！）</p><p>于是，我准备大概两周写一篇（段），记录一下呢！</p><p>ps：月考成绩快全出来了QwQ</p><p><img src="https://gitee.com/xbrmzx/mzx666.gitee.io/raw/c8dcf53881882f3b15b677e5df7377255deda13c/img%5C/%E5%8A%A0%E6%B2%B9.jpg" alt="加油"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;由于&lt;strong&gt;各种原因&lt;/strong&gt;，没有时间更新……&lt;/p&gt;
-&lt;p&gt;我想了下，其实写博客也算是一种记录生活吗！（记录事件，有助于写作文！）&lt;/p&gt;
-&lt;p&gt;于是，我准备大概两周写一篇（段），记录一下呢！&lt;/p&gt;
-&lt;p&gt;ps：月考成绩快全出来了QwQ&lt;/p&gt;
-&lt;p&gt;</summary>
-      
-    
-    
-    
-    
-    <category term="动态" scheme="https://o2pig.xyz/tags/%E5%8A%A8%E6%80%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【动态】准备开始定期更新了~</title>
-    <link href="https://o2pig.xyz/4/"/>
-    <id>https://o2pig.xyz/4/</id>
-    <published>2021-04-04T02:14:09.000Z</published>
-    <updated>2021-04-17T04:42:30.991Z</updated>
-    
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1411774831&auto=0&height=66"></iframe><hr><p>哈！<br>哈！<br>哈！<br>终于考完啦！</p><p>哟！<br>呦！<br>呦！<br>终于出分了-_-</p><p>啊！？<br>啊！？<br>啊！？<br>怎么回事呀！</p><p>待完结~</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;//music.163.com/outchain/player?type=2&amp;id=1411</summary>
+    <summary type="html">&lt;p&gt;我的博客用 &lt;code&gt;Hexo&lt;/code&gt; 框架渲染……&lt;/p&gt;
+&lt;p&gt;我会“不定期”的更新呦~&lt;/p&gt;
+&lt;p&gt;现在在&lt;code&gt;实验阶段&lt;/code&gt;，可能会出现问题，如果访问不了 $90$%的概率还能回来~&lt;/p&gt;
+&lt;p&gt;以后要是有时间，我就会定期更新！&lt;/p&gt;
+&lt;</summary>
       
     
     
@@ -185,32 +58,6 @@
 &lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;准备什么？&lt;/li&gt;
 &lt;li&gt;注册 &lt;code&gt;Github&lt;/code&gt;   </summary>
-      
-    
-    
-    
-    
-    <category term="技术" scheme="https://o2pig.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我有博客啦~</title>
-    <link href="https://o2pig.xyz/1/"/>
-    <id>https://o2pig.xyz/1/</id>
-    <published>2021-01-20T13:28:39.000Z</published>
-    <updated>2021-04-16T13:37:12.244Z</updated>
-    
-    <content type="html"><![CDATA[<p>我的博客用 <code>Hexo</code> 框架渲染……</p><p>我会“不定期”的更新呦~</p><p>现在在<code>实验阶段</code>，可能会出现问题，如果访问不了 90% 的概率还能回来~</p><p>以后要是有时间，我就会定期更新！</p><p>本站是 博客 站以后可能会有 周记 站~</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;我的博客用 &lt;code&gt;Hexo&lt;/code&gt; 框架渲染……&lt;/p&gt;
-&lt;p&gt;我会“不定期”的更新呦~&lt;/p&gt;
-&lt;p&gt;现在在&lt;code&gt;实验阶段&lt;/code&gt;，可能会出现问题，如果访问不了 90% 的概率还能回来~&lt;/p&gt;
-&lt;p&gt;以后要是有时间，我就会定期更新！&lt;/p&gt;
-&lt;p</summary>
       
     
     
